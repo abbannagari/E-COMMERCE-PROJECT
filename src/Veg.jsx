@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 
 import React, { useState } from "react";
 
-import "./Style.css";
+import "./style.css";
 import ProductCard from "./ProductCard";
 import { addToCart } from "./Store";
 
