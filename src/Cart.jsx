@@ -11,7 +11,7 @@ import {
   setDiscount,
 } from "./Store";
 
-import "./Style.css";
+import "./style.css";
 import SendOrderEmail from "./SendOrderEmail";
 
 function Cart() {
