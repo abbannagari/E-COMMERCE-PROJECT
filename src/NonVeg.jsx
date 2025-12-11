@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 
-import "./Style.css";
+import "./style.css";
 import { addToCart } from "./Store";
 import ProductCard from "./ProductCard";
 
